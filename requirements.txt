@@ -1,0 +1,7 @@
+Libraries required:
+1. Pandas
+2. Numpy
+3. Streamlit
+4. Scikit-learn
+5. Plotly.express
+6. Pickle
